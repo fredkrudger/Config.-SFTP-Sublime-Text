@@ -1,4 +1,4 @@
-# Config.-SFTP-Sublime-Text
+# Config. SFTP Sublime Text ST2/ST3
 
 basic configuration to connect FTP from Sublime Text, Easy and Simple.
 
